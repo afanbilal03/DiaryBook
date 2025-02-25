@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiaryBook</string>
+    <string name="save_note">Save Note</string>
+    <string name="login">Login</string>
+    <string name="login_to_diary_book">Login to Diary Book</string>
+    <string name="password">Password</string>
+</resources>
